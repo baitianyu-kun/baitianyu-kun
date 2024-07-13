@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center"> <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar.fullyear" /> </div>
 
 
