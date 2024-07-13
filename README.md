@@ -1,5 +1,20 @@
-<div align="center"> <img src="/metrics.plugin.isocalendar.svg" alt="isocalendar.halfyear" /> </div>
-
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="/metrics.plugin.isocalendar.svg" alt="isocalendar.halfyear">
+      </div>
+    </td>
+    <td>
+      <div>
+        <img src="/metrics.plugin.languages.svg">
+      </div>
+      <div>
+        <img src="/metrics.plugin.languages.recent.svg">
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 <!--
