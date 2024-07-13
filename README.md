@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=baitianyu-kun&theme=dark)
+<div align="center"> ![](https://github-readme-stats.vercel.app/api?username=baitianyu-kun&theme=dark) </div>
+
+<div align="center"> <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar.fullyear" /> </div>
+
+
 
 <!--
 **baitianyu-kun/baitianyu-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
