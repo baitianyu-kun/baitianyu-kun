@@ -1,4 +1,4 @@
-<div align="center"> <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar.fullyear" /> </div>
+<div align="center"> <img src="/metrics.plugin.isocalendar.svg" alt="isocalendar.halfyear" /> </div>
 
 
 
