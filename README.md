@@ -1,12 +1,7 @@
-<div align="center">
-        <img src="/metrics.plugin.isocalendar.svg" alt="isocalendar.halfyear">
-</div>
-<div align="center">
-        <img src="/metrics.plugin.languages.svg">
-</div>
-<div align="center">
-        <img src="/metrics.plugin.languages.recent.svg">
-</div>
+[<img align="left"  src="/metrics.plugin.isocalendar.svg">](#)
+[<img align="right" src="/metrics.plugin.languages.svg">](#)
+[<img align="right" src="/metrics.plugin.languages.recent.svg">](#)
+
 <!--<table>
   <tr>
     <td>
