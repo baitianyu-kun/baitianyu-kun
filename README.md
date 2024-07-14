@@ -1,6 +1,6 @@
-[<img align="left"  src="/metrics.plugin.isocalendar.svg">](#)
-[<img align="right" src="/metrics.plugin.languages.svg">](#)
-[<img align="right" src="/metrics.plugin.languages.recent.svg">](#)
+[<img align="left"  width="450" src="/metrics.plugin.isocalendar.svg">](#)
+[<img align="right"  width="450" src="/metrics.plugin.languages.svg">](#)
+[<img align="right"  width="450" src="/metrics.plugin.languages.recent.svg">](#)
 
 <!--<table>
   <tr>
