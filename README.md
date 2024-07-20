@@ -1,6 +1,52 @@
-[<img align="left"  width="400" src="/metrics.plugin.isocalendar.svg">](#)
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="github-metrics/base.svg">
+      </div>
+    </td>
+    <td>
+      <div>
+        <img src="/metrics.plugin.languages.svg">
+      </div>
+      <div>
+        <img src="/metrics.plugin.languages.recent.svg">
+      </div>
+      <div>&nbsp;</div>
+      <div>
+        <img src="/metrics.plugin.isocalendar.svg" alt="isocalendar.halfyear">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="github-metrics/habits.charts.svg" alt="isocalendar.halfyear">
+      </div>
+    </td>
+    <td>
+      <div>
+        <img src="github-metrics/followup.indepth.svg" alt="isocalendar.halfyear">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="github-metrics/activity.svg" alt="isocalendar.halfyear">
+      </div>
+    </td>
+    <td>
+      <div>
+          <img src="github-metrics/achievements.compact.svg">
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!--[<img align="left"  width="400" src="/metrics.plugin.isocalendar.svg">](#)
 [<img align="right"  width="400" src="/metrics.plugin.languages.svg">](#)
-[<img align="right"  width="400" src="/metrics.plugin.languages.recent.svg">](#)
+[<img align="right"  width="400" src="/metrics.plugin.languages.recent.svg">](#)-->
 
 <!--<table>
   <tr>
