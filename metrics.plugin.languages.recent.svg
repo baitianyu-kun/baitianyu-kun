@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 769kb of code in 494 edited files across 62 commits over last 14 days</small>
+                <small>estimation from 754kb of code in 478 edited files across 58 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.1870265384124" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="269.1870265384124" y="0" width="188.0288473820215" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.2158739204339" y="0" width="2.7841260795661102" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.2441792688061" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="277.2441792688061" y="0" width="180.72346264693502" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.96764191574107" y="0" width="2.0323580842589295" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                             </div>
                             <small>
                                 <div>297 kB</div>
-                                <div>58.52%</div>
+                                <div>60.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 C
                             </div>
                             <small>
-                                <div>3.08 kB</div>
-                                <div>0.61%</div>
+                                <div>2.18 kB</div>
+                                <div>0.44%</div>
                             </small>
                         </div>
                     </section>
@@ -62,8 +62,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>208 kB</div>
-                                <div>40.88%</div>
+                                <div>194 kB</div>
+                                <div>39.29%</div>
                             </small>
                         </div>
                     </section>
