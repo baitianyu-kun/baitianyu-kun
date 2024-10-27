@@ -35,9 +35,11 @@
       <div align="center">
        <img src="github-metrics/achievements.compact.svg">
       </div>
+      <img align="center" width="10%" src="https://komarev.com/ghpvc/?username=baitianyu-kun">
     </td>
   </tr>
 </table>
+
 
 <!--<img align="center" width="120%" src="https://repobeats.axiom.co/api/embed/54fada9beef0afb2f6ff9c93b59fa9387f8edbd9.svg">-->
 <!--[<img align="left"  width="400" src="/metrics.plugin.isocalendar.svg">](#)
