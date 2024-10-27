@@ -31,10 +31,15 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2">
+      <div align="center">
+       <img src="github-metrics/achievements.compact.svg">
+      </div>
+    </td>
   </tr>
 </table>
 
-<img src="github-metrics/achievements.compact.svg">
+
 <!--<img align="center" width="120%" src="https://repobeats.axiom.co/api/embed/54fada9beef0afb2f6ff9c93b59fa9387f8edbd9.svg">-->
 <!--[<img align="left"  width="400" src="/metrics.plugin.isocalendar.svg">](#)
 [<img align="right"  width="400" src="/metrics.plugin.languages.svg">](#)
