@@ -32,11 +32,6 @@
   </tr>
   <tr>
     <td>
-      <div align="center">
-        <img src="github-metrics/activity.svg" alt="isocalendar.halfyear">
-      </div>
-    </td>
-    <td>
       <div>
           <img src="github-metrics/achievements.compact.svg">
       </div>
