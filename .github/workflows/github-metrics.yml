@@ -24,7 +24,7 @@ jobs:
           user: baitianyu-kun
           template: classic
           config_timezone: Asia/Shanghai
-          base: "header, activity, repositories"
+          base: "header, activity, community, repositories"
           # 此插件为文档中的 🧮 Repositories traffic
           plugin_traffic: yes
           # 此插件为文档中的 👨‍💻 Lines of code changed
