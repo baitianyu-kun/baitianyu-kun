@@ -43,12 +43,14 @@
       </div>
     </td>
   </tr>
-  <tr>
+
+</table>
+
+<!--<tr>
     <td colspan="2">
       <img align="center" width="10%" src="https://komarev.com/ghpvc/?username=baitianyu-kun">
     </td>
-  </tr>
-</table>
+  </tr>-->
 
 <!--<div>
         <img src="/metrics.plugin.languages.svg">
