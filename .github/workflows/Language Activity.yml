@@ -14,7 +14,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # - uses: lowlighter/metrics@latest
+      - uses: stalomeow/metrics@projects-v2
         with:
               filename: metrics.plugin.languages.recent.svg
               token: ${{ secrets.METRICS_TOKEN }}
@@ -26,7 +27,8 @@ jobs:
               plugin_languages_sections: recently-used
               plugin_languages_details: bytes-size, percentage
               plugin_languages_limit: 5
-      - uses: lowlighter/metrics@latest
+      # - uses: lowlighter/metrics@latest
+      - uses: stalomeow/metrics@projects-v2
         with:
               filename: metrics.plugin.languages.svg
               token: ${{ secrets.METRICS_TOKEN }}
