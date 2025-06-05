@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <picture>
     <source
       srcset="https://github-readme-stats-blue-gamma.vercel.app/api?username=baitianyu-kun&count_private=true&show_icons=true&rank_icon=github&theme=github_dark"
