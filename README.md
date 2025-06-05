@@ -1,4 +1,18 @@
-<table>
+<div align="center">
+    <picture>
+    <source
+      srcset="https://github-readme-stats-blue-gamma.vercel.app/api?username=baitianyu-kun&count_private=true&show_icons=true&rank_icon=github&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-blue-gamma.vercel.app/api?username=baitianyu-kun&count_private=true&show_icons=true&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-blue-gamma.vercel.app/api?username=baitianyu-kun&count_private=true&show_icons=true&rank_icon=github" />
+    </picture>
+</div>
+
+<!--<table>
   <tr>
     <td>
       <div align="center">
@@ -43,7 +57,7 @@
       </div>
     </td>
   </tr>
-</table>
+</table>-->
 
 <!--<tr>
     <td colspan="2">
