@@ -15,7 +15,8 @@ jobs:
     steps:
       # 基础信息（顺带了几个小插件）
       - name: base
-        uses: lowlighter/metrics@latest
+        # uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           filename: github-metrics/base.svg
           # Your GitHub token
@@ -42,7 +43,8 @@ jobs:
           
       # 📅 Isometric commit calendar
       - name: Full-year calendar
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -55,7 +57,8 @@ jobs:
 
       # 🈷️ Languages activity
       - name: Indepth analysis
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -71,7 +74,8 @@ jobs:
 
       # ✨ Stargazers   
       - name: Using chartist charts
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/stargazers.chartist.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -81,7 +85,8 @@ jobs:
 
       # 🌟 Recently starred repositories
       - name: Recently starred
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -91,7 +96,8 @@ jobs:
           
       # 💡 Coding habits and activity
       - name: Recent activity charts
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -103,7 +109,8 @@ jobs:
           
       # 🎟️ Follow-up of issues and pull requests 
       - name: Indepth analysis
-        uses: lowlighter/metrics@latest
+        # uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           filename: github-metrics/followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -113,7 +120,8 @@ jobs:
           
       # 🎭 Comment reactions
       - name: Comment reactions
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -124,7 +132,8 @@ jobs:
 
       # 🧑‍🤝‍🧑 People    
       - name: Followers
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/people.followers.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -136,7 +145,8 @@ jobs:
           
       # 📓 Featured repositories
       - name: Pinned repositories
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/repositories.pinned.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -146,7 +156,8 @@ jobs:
 
       # 💬 Discussions
       - name: GitHub Discussions
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/discussions.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -156,7 +167,8 @@ jobs:
    
       # 📆 Commit calendar
       - name: Full history calendar
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/calendar.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -166,7 +178,8 @@ jobs:
 
       # 🏆 Achievements
       - name: Compact display
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -180,7 +193,8 @@ jobs:
 
       # 📰 Recent activity
       - name: Recent activity
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -192,7 +206,8 @@ jobs:
    
       # 🗨️ Stack Overflow
       - name: Top answers from stackoverflow
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/stackoverflow.svg
           token: NOT_NEEDED
@@ -204,7 +219,8 @@ jobs:
 
       # ⏰ WakaTime
       - name: WakaTime
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
+        # uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/wakatime.svg
           token: NOT_NEEDED
