@@ -1,7 +1,7 @@
 <div>
     <picture>
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=baitianyu-kun&count_private=true&show_icons=true&rank_icon=github&theme=catppuccin_mocha"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=baitianyu-kun&count_private=true&show_icons=true&rank_icon=github&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
